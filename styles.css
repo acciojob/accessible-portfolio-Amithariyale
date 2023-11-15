@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+body{
+	margin:0px;
+	padding:0px;
+	background:rgb(54, 141, 161);
+}
+nav{
+    margin: 0px;
+    padding: 0px;
+    
+}
+ul{
+    /* list-style: none; */
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
